@@ -1,0 +1,11 @@
+Fecha,Cliente,Producto,Cantidad,Precio Unitario
+2025-06-01,Juan Pérez,Sensor óptico,5,120.00
+2025-06-02,Ana Díaz,Motor paso a paso,2,350.00
+2025-06-03,Luis Soto,Arduino UNO,3,200.00
+2025-06-04,Marta Núñez,Sensor ultrasónico,4,180.00
+2025-06-05,Juan Pérez,Motor paso a paso,1,350.00
+2025-06-06,Pedro Ruiz,Raspberry Pi 4,2,980.00
+2025-06-07,Ana Díaz,Sensor óptico,7,120.00
+2025-06-08,Luis Soto,Sensor de temperatura,5,90.00
+2025-06-09,Marta Núñez,Arduino UNO,1,200.00
+2025-06-10,Pedro Ruiz,Sensor de presión,3,150.00
